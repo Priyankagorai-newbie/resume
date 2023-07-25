@@ -21,8 +21,8 @@ html resume for professional purpose
                <div class="skills">
                     <h2>skills</h2>
                     <ul>
-                         <li><b>microsoft word,microsoft powerpoint,presentation</b></li>
-                         <li><b>spoken english,creative writing</b></li>
+                         <li><b>microsoft word,microsoft PowerPoint,presentation</b></li>
+                         <li><b>spoken English,creative writing</b></li>
                          <li><b>video editing- beginner</b></li>
                          <li><b>c programming- beginner, HTML- beginner</b></li>
                     </ul>
@@ -46,10 +46,10 @@ html resume for professional purpose
                     <ul>
                          <li>HTML</li>
                          <p>W3school,online</p>
-                         <p>learning basics for how to write an website</p>
+                         <p> Learning basics for how to write a website</p>
                          <li>UI & UX Design</li>
                          <p>great learning,online</p>
-                         <p>I learnt about how to to create and maintain user interface and 
+                         <p>I learned about how to create and maintain user interfaces and 
                               user experience.</p>
                           <li>Organic marketing</li>
                           <p>coursera,online</p>
