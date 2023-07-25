@@ -63,7 +63,8 @@
                          </ul>
                     </div>
                     
-                         
+                         <div class="academics">
+<h2>Academics</h2>
                               <table style="width: 100%" >
                          <tr> 
                               <th>studies</th>
@@ -94,6 +95,7 @@
                               </tr>
                           
                     </table>
+</div>
                
           </body>
 </html>
