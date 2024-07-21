@@ -1,7 +1,7 @@
 # resume
 html resume for professional purpose
 <!DOCTYPE html>
-<head><title> RESUME </title></head>
+<head> RESUME </head>
 
 
 <head><h1> RESUME: PRIYANKA GORAI </h1></head>
@@ -66,7 +66,7 @@ html resume for professional purpose
                     </div>
                     
                          
-                              <table style="width: 100%" >
+                              <table style="width:100%" >
                          <tr> 
                               <th>studies</th>
                               <th>name of institute</th>
