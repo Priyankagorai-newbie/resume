@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
-    <title>Priyanka Gorai - Resume</title>
+    <title>Priyanka Gorai</title>
     <style>
         /* Animated Gradient Background */
         body {
